@@ -1,9 +1,5 @@
-/// test test test test
-<<<<<<< HEAD
+// test test test test
 // dsad
-=======
-
->>>>>>> upstream/master
 cube(`orders`, {
     sql: `
     select 1 as id, 100 as amount, 'new' status
