@@ -1,4 +1,8 @@
+<<<<<<< HEAD
+/// test test test test test test
+=======
 /// test test test test test
+>>>>>>> upstream/master
 
 cube(`orders`, {
     sql: `
