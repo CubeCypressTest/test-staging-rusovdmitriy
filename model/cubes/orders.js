@@ -1,4 +1,4 @@
-///
+/// test
 
 cube(`orders`, {
     sql: `
