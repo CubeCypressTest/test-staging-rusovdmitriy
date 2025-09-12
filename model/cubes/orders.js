@@ -22,6 +22,10 @@ cube(`orders`, {
       count: {
         type: `count`
       },
+
+      countSecond: {
+        type: `count`
+      },
   
       total_amount: {
         sql: `amount`,
