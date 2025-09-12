@@ -38,6 +38,10 @@ cube(`orders`, {
       countOneMore3: {
         type: `count`
       },
+
+      countOneMore4: {
+        type: `count`
+      },
   
       total_amount: {
         sql: `amount`,
