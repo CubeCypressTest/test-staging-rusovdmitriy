@@ -51,6 +51,11 @@ cube(`orders`, {
       total_amount2: {
         sql: `amount`,
         type: `sum`
+      },
+
+      total_amount3: {
+        sql: `amount`,
+        type: `sum`
       }
     },
   
