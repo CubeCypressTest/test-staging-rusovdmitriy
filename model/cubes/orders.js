@@ -47,46 +47,6 @@ cube(`orders`, {
         sql: `amount`,
         type: `sum`
       },
-
-      total_amount2: {
-        sql: `amount`,
-        type: `sum`
-      },
-
-      total_amount3: {
-        sql: `amount`,
-        type: `sum`
-      },
-
-      total_amount4: {
-        sql: `amount`,
-        type: `sum`
-      },
-
-      total_amount5: {
-        sql: `amount`,
-        type: `sum`
-      },
-
-      total_amount6: {
-        sql: `amount`,
-        type: `sum`
-      },
-
-      total_amount7: {
-        sql: `amount`,
-        type: `sum`
-      },
-        
-      total_amount8: {
-        sql: `amount`,
-        type: `sum`
-      },
-
-      total_amount9: {
-        sql: `amount`,
-        type: `sum`
-      },
     },
   
     dimensions: {
