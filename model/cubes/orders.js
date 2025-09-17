@@ -1,5 +1,5 @@
 /// test test test test test
-
+// test
 cube(`orders`, {
     sql: `
     select 1 as id, 100 as amount, 'new' status
